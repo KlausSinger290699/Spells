@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c47ad2c1a4ed4472b641046c33cd41f4, type: 3}
+  m_Name: Puhback_Casting_Data
+  m_EditorClassIdentifier: 
+  _castingType: 2
+  _data:
+    SpellName: Pushback
+    SpellSprite: {fileID: 0}
+    Description: Casts a Fireball
+    CastSound: {fileID: 0}
+    SpellPrefab: {fileID: 0}
+  _stats:
+    Damage: 4
+    Cooldown: 4
+    CastTime: 1
+    ManaCost: 20

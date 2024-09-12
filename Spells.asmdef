@@ -1,0 +1,14 @@
+{
+    "name": "Spells",
+    "rootNamespace": "SCD.Spells",
+    "references": ["GUID:a7474e100c7c3fb4e8d8aedbd6ac8e50"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

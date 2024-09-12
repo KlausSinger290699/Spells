@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4715fd0a142a23d4c8285cfb466a9510, type: 3}
+  m_Name: Fireball_Stats
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: <InstanceStats>k__BackingField
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[SCD.Spells.Core.SpellStats,
+        Spells],[System.Single, mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[SCD.Spells.Core.SpellStats,
+        Spells]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: <Stats>k__BackingField
+      Entry: 7
+      Data: 2|System.Collections.Generic.Dictionary`2[[SCD.Spells.Core.SpellStats,
+        Spells],[System.Single, mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 1
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 4
+      Data: 60
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 4
+      Data: 26
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 4
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 4
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 10
+    - Name: $v
+      Entry: 4
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: LiveData
+      Entry: 7
+      Data: SCD.Spells.UpgradeSystem.SpellStatsSO+s_LiveData, Spells
+    - Name: Cooldown
+      Entry: 4
+      Data: 4
+    - Name: RemainingCooldown
+      Entry: 4
+      Data: 2.99869728
+    - Name: CanCast
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+  _data:
+    SpellSprite: {fileID: 21300000, guid: 3b7ed903b4c0842739c371a85ad4740b, type: 3}
+    SpellSpriteBW: {fileID: 21300000, guid: 60b96a8541c92486ca2f48cdca20e1cd, type: 3}
+    CastingType: 0
+    SpellName: Fireball
+    Description: Casts a fireball. Upon Damaging an enemy deals damage to all enemies
+      in an explosion radius.
+    SpellPrefab: {fileID: 6881474406348169789, guid: b13fdf63d496a6d418afd126957edbdb, type: 3}
+  _animationData:
+    Name: Fireball
+    ParameterName: Fireball
+    StartDelay: 0
+    LessDuration: -0.5
+  IsProjectile: 1
+  CastPoint1: {fileID: 0}
+  CastPoint2: {fileID: 0}
+  PlayerPosition: {fileID: 0}
+  Offset: {x: 0, y: 0, z: 0}
+  IsMeteorite: 0
