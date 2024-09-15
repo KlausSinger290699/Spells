@@ -15,7 +15,7 @@ Buffing Spells Solution:
 
 This is the system that replaced the initial idea of the composite pattern. It uses Scriptable Objects - a reusable Data Container that is very unity specific. 
 
-I will not go into detail as how it works, because it is very unity specific, but if you were to describe it in one sentece: 
+I will not go into detail as how it works, as it is very unity specific, but if you were to describe it in one sentece: 
 
 The upgrade system consists of two lists in StatsManager.cs. One List "List SpellStatsSO _statsList" contains all data specific to each individual spell, while the other list "List StatsUpgradeDicSO _upgradeDics" contains a Dictionary of upgrades intended for each spell that can be easily modified by the game designer.
 
