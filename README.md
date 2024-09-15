@@ -17,7 +17,7 @@ Buffing Spells Solution:
 
 I will not go into detail as how it works, because it is very unity specific, but if you were to describe it in one sentece: 
 
-The upgrade system consists of two lists in StatsManager.cs. One List "List<SpellStatsSO>" contains all data specific to each individual spell, while the other list "List<StatsUpgradeDicSO>" _upgradeDics contains a Dictionary of upgrades intended for each spell that can be easily modified by the game designer.
+The upgrade system consists of two lists in StatsManager.cs. One List "List SpellStatsSO" contains all data specific to each individual spell, while the other list "List StatsUpgradeDicSO" _upgradeDics contains a Dictionary of upgrades intended for each spell that can be easily modified by the game designer.
 
 ![image](https://github.com/user-attachments/assets/bfedd401-8a53-4fb9-9e4d-dd8244409108)
 
