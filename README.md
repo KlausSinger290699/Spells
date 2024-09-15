@@ -19,11 +19,12 @@ I will not go into detail as how it works, as it is very unity specific, but if 
 
 The upgrade system consists of two lists in StatsManager.cs. One List "List SpellStatsSO _statsList" contains all data specific to each individual spell, while the other list "List StatsUpgradeDicSO _upgradeDics" contains a Dictionary of upgrades intended for each spell that can be easily modified by the game designer.
 
-![image](https://github.com/user-attachments/assets/bfedd401-8a53-4fb9-9e4d-dd8244409108)
+![image](https://github.com/user-attachments/assets/38a7b10e-06eb-4731-9517-d0cbe7b54694)
 
 
 
 Legend: Describes what each component of the flowchart represents.
 
-![image](https://github.com/user-attachments/assets/3b35c32c-98f7-4a61-9e19-3f243698d4d4)
+![image](https://github.com/user-attachments/assets/2e99d5ec-4242-4e6d-87f7-c47825bd0cfe)
+
 
