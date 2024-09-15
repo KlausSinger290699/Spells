@@ -6,7 +6,7 @@ Code Architecture of the Spells Assembly:
 
 -> Third coloum of the first screenshot - Decorator: This has not yet been implemented but left open for extension. It's intended future use is for modifying the Spell's behaviour dynamically (e.g. Shoot 3 fireballs instead of 1 when upgrading the skill enough times). 
 
--> First coloum of the first screenshot - Composite: It's intended use was for buffing spells dynamically (e.g. Damage Buff, Cooldown Reduction Buff). Here I admit that I ended up overengineering the code structure, as I ended up using a better unity specific solution to solve this problem - described in  the"Buffing Spells Solution" section.
+-> First coloum of the first screenshot - Composite: It's intended use was for buffing spells dynamically (e.g. Damage Buff, Cooldown Reduction Buff). Here I admit that I ended up overengineering the code structure, as I ended up using a better suited unity specific solution to solve this problem - described in  the"Buffing Spells Solution" section.
 
 ![image](https://github.com/user-attachments/assets/89151b42-4e58-4e95-8b94-714efbb7d3de)
 
