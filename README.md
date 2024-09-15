@@ -25,4 +25,5 @@ The upgrade system consists of two lists in StatsManager.cs. One List "List Spel
 
 Legend: Describes what each component of the flowchart represents.
 
-![CodeStructure Legend](https://github.com/user-attachments/assets/50c32e59-930a-4d18-82e8-0ed4dea0eece)
+![image](https://github.com/user-attachments/assets/3b35c32c-98f7-4a61-9e19-3f243698d4d4)
+
