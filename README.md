@@ -8,7 +8,7 @@ Code Architecture of the Spells Assembly:
 
 -> First coloum of the first screenshot - Composite: It's intended use was for buffing spells dynamically (e.g. Damage Buff, Cooldown Reduction Buff). Here I admit that I ended up overengineering the code structure, as I ended up using a better suited unity specific solution to solve this problem - described in  the"Buffing Spells Solution" section.
 
-![image](https://github.com/user-attachments/assets/89151b42-4e58-4e95-8b94-714efbb7d3de)
+![image](https://github.com/user-attachments/assets/9cbc96f3-a6e3-4810-a0ec-89d92556d2f1)
 
 
 Buffing Spells Solution:
