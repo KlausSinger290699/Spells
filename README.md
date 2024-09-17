@@ -4,7 +4,7 @@ Code Architecture of the Spells Assembly:
 
 -> Second column of the first screenshot - Casting: Casting of the spells, which contains the logic for casting everything that should happen in the game when the player casts a spell (e.g. cooldown and mana consumption, etc).
 
--> Third column of the first screenshot - Decorator: This has not yet been implemented but left open for extension. It's intended future use is for modifying the Spell's behaviour dynamically (e.g. Shoot 3 fireballs instead of 1 when upgrading the skill enough times). 
+-> Third column of the first screenshot - Decorator: This has not yet been implemented but left open for extension. It's intended future use is for modifying the Spell's behaviour dynamically (e.g. Slowing effects, Shoot 3 fireballs instead of 1 when upgrading the skill enough times). 
 
 -> First column of the first screenshot - Composite: It's intended use was for buffing spells dynamically (e.g. Damage Buff, Cooldown Reduction Buff). Here I admit that I ended up overengineering the code structure, as I ended up using a better suited unity specific solution to solve this problem - described in  the"Buffing Spells Solution" section.
 
