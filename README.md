@@ -15,9 +15,11 @@ Buffing Spells Solution:
 
 This is the system that replaced the initial idea of the composite pattern. It uses Scriptable Objects - a reusable Data Container that is very unity specific. 
 
-I will not go into detail as how it works, as it is very unity specific, but if you were to describe it in one sentece: 
+-> SpellStatsSO contains all the Stats for each Spell and can be easily accessed through the editor by the Game Designer.
 
-The upgrade system consists of two lists in StatsManager.cs. One List "List SpellStatsSO _statsList" contains all data specific to each individual spell, while the other list "List StatsUpgradeDicSO _upgradeDics" contains a Dictionary of upgrades intended for each spell that can be easily accesed and modified by the game designer.
+-> StatsUpgradeSO gives the Game Designer the option to choose what stat should be upgraded to a single or a list of Spells
+
+-> StatsUpgradeDicSO keeps track of all the possible buffs to the stats with a dictionary.
 
 ![image](https://github.com/user-attachments/assets/38a7b10e-06eb-4731-9517-d0cbe7b54694)
 
