@@ -1,4 +1,4 @@
-Note: The Objective of sharing this code is not to make the reader understand what each piece of code does. It is to show evidence that I am familiar - but not perfect -  with clean Code standards and SOLID architecture principles. The reader will be able to recognize software architectural patterns, such as: Factories (static & using Reflection), Inheritance, Composition, Dependency Injection and SOLID principles as well as coding guidelines.
+Note: The Objective of sharing this code is not to make the reader understand what each piece of code does. It is to show evidence that I am familiar - but not perfect -  with coding standards and SOLID principles. The reader will be able to recognize software architectural patterns, such as: Factories (static & using Reflection), Inheritance, Composition, Dependency Injection and SOLID principles as well as coding guidelines.
 
 Code Architecture of the Spells Assembly:
 
