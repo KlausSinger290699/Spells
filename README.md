@@ -17,9 +17,9 @@ This is the system that replaced the initial idea of the composite pattern. It u
 
 -> SpellStatsSO contains all the Stats for each Spell and can be easily accessed through the editor by the Game Designer.
 
--> StatsUpgradeSO gives the Game Designer the option to choose what stat should be upgraded to a single or a list of Spells
+-> StatsUpgradeSO gives the Game Designer the option to choose what stat should be upgraded to a single or a list of Spells.
 
--> StatsUpgradeDicSO keeps track of all the possible buffs to the stats with a dictionary.
+-> StatsUpgradeDicSO keeps track of all the possible buffs to the stats with a dictionary for easy access.
 
 ![image](https://github.com/user-attachments/assets/38a7b10e-06eb-4731-9517-d0cbe7b54694)
 
